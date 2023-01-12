@@ -61,3 +61,17 @@ img {
 
 
 }
+
+@media (max-width: 999px) {
+    .container {
+        display: block;
+        padding: 10px;
+    }
+
+    img {
+        width: 360px;
+        height: 253px;
+    }
+
+
+}
