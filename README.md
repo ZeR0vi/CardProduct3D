@@ -11,10 +11,16 @@ The requirements were:
 - Option 2: Swap the static image for a 3D model that can be navigable by dragging the mouse"
 
 # Objective 🥤
+The purpose of the project in my view is learning with the DOM, although it is something basic, many people still have difficulties in exchanging images using JavaScript
 
 # Functionalities ⚙️
+- [x] Responsive
+- [x] hover on button
+- [x] Perfectly follows the design and requirements
+
+
 
 # Technologies ⚛️
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
