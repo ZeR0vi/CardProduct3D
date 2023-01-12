@@ -1,0 +1,63 @@
+body {
+    background-color: #D9CDF7;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    padding-top: 10%;
+}
+
+p {
+    color: #271A45;
+    font-size: 10px;
+    font-family: 'Lato';
+}
+
+h1 {
+    color: #271A45;
+    font-family: 'Crimson Pro';
+    font-size: 32px;
+}
+
+h2 {
+    color: #271A45;
+    font-family: 'Lato';
+    font-size: 16px;
+}
+
+button {
+    color: #271A45;
+    background: none;
+    border-color: #271A45;
+    width: 150px;
+    height: 34px;
+    border-radius: 999px;
+    border-width: 1px;
+    cursor: pointer;
+
+    transition: background-color .5s;
+
+  
+
+}
+
+button:hover {
+    background-color: #271A45;
+    color: #D9CDF7;
+}
+
+img {
+    width: 449px;
+    height: 253px;
+
+
+    cursor: pointer;
+
+
+
+}
